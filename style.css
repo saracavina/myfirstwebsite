@@ -1,0 +1,7 @@
+body {font-family: 'Titillium Web', sans-serif !important;}
+header {font-family: 'Titillium Web', sans-serif;}
+h1, header p {text-align: center;}
+header {
+	height: 90vh;
+	background: url(../images/background.png) no-repeat center;
+}
